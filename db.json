@@ -4,64 +4,64 @@
 			"id":"1",
 			"imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/M63H24W7JF0-L302-ALTGHOST?wid=1500&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
 			"name": "SHIRT",
-			"quantity:100,
-			"price": 110,
+			"quantity":"100",
+			"price": "110",
 			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s."
 		},
 		{
 			"id":"2",
 			"imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/FLGLO4FAL12-BEIBR?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
 			"name": "SNEAKER",
-			"quantity:25,
-			"price": 91,
+			"quantity":"25",
+			"price": "91",
 			"description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. "
 		},
 		{
 			"id":"3",
 			"imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/HWVG6216060-TAN?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
 			"name": "BAG",
-			"quantity:20,
-			"price": 94.5,
+			"quantity":"20",
+			"price": "94.5",
 			"description": "The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.."
 		},
 		{
 			"id":"4",
 			"imgUrl": "http://guesseu.scene7.com/is/image/GuessEU/WC0001FMSWC-G5?wid=520&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
 			"name": "WATCH",
-			"quantity:30,
-			"price": 438.9,
+			"quantity":30",
+			"price": "438.9",
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ."
 		},
 		{
 			"id":"5",
 			"imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/AW6308VIS03-SAP?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
 			"name": "KEFIAH",
-			"quantity:5,
-			"price": 20,
+			"quantity":"5",
+			"price": "20",
 			"description": "Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure."
 		},
 		{
 			"id":"6",
 			"imgUrl": "https://rukminim1.flixcart.com/image/416/416/k0y6cnk0/mobile/p/4/x/mi-redmi-8a-mzb8459in-original-imafkmg2mza82yyu.jpeg?q=70",
 			"name": "Mobile",
-			"quantity:9,
-			"price": 20000,
+			"quantity":"9",
+			"price": "20000",
 			"description": " Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
 		},
 		{
 			"id":"7",
 			"imgUrl": "https://rukminim1.flixcart.com/image/416/416/jfbfde80/camera/n/r/n/canon-eos-eos-3000d-dslr-original-imaf3t5h9yuyc5zu.jpeg?q=70",
 			"name": "DSLR",
-			"quantity:7,
-			"price": 15000,
+			"quantity":"7",
+			"price": "15000",
 			"description": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
 		},
 		{
 			"id":"8",
 			"imgUrl": "https://images-na.ssl-images-amazon.com/images/I/71JZWpHPV%2BL._SL1500_.jpg",
 			"name": "Laptop",
-			"quantity:20,
-			"price": 50000,
+			"quantity":"20",
+			"price": "50000",
 			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s."
 		}
 	]
